@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulsnkr&show_icons=true&count_private=true&theme=monokai)
-
+<!-- ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulsnkr&show_icons=true&count_private=true&theme=monokai) -->
